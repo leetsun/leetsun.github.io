@@ -1,0 +1,15 @@
+.jekyll-metadata
+.sass-cache
+_site
+node_modules
+test
+test_long
+
+*.report.html
+*.gem
+*.whl
+Gemfile.lock
+package-lock.json
+CNAME
+
+_sass/@primer/**/*.md
