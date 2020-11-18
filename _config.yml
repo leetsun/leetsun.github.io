@@ -2,7 +2,7 @@ title: Welcome in LeetSun'Blog
 lang: en,ch
 description: CTFer, Fuzzer, some interests in asm
 
-theme: null
+theme: jekyll-theme-hacker
 
 # debug:
 #   compress: false
